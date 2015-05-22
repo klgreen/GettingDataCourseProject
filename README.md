@@ -8,4 +8,3 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Tidy Data is described in an article written by Hadley Wickham in the Journal of Statistical Software, 
 titled "Tidy Data" located (at the time of this writing) at: http://vita.had.co.nz/papers/tidy-data.pdf
-
