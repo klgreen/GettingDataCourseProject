@@ -27,3 +27,7 @@ git add README.md
 git add run_Analysis.R
 git commit -m "I changed ...." 
 git push
+
+The dataset used for this analysis is described in the publication:
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
