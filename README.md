@@ -29,6 +29,19 @@ This progject is an R script called, "run_Analysis.R"" that does the following:
 </i>
 ** Note that these items 1:5 are exact quotes from the Coursera/JHU assignment page.
 
+Method is described in the program.
+<ol type="1">
+<li>Read activities labels and feature labels</li>
+<li> for each of the training and test sets</li>
+<li> read in the data for the set and the subjects</li>
+<li>Extract only the data with 'mean' or 'std' </li>
+<li> combine (merge) the set, the subjects and the activities</li>
+<li> combine the test and training sets</li>
+<li> summarize the data</li>
+<li> clean the labels</li>
+<li> write the result table to text file </li>
+</ol>
+
 
 Note: Very simple how to upload files: <p>
 invoke Git Bash window<p>
