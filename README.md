@@ -17,7 +17,7 @@ Use data from source [1], listed below.
 
 This progject is an R script called, "run_Analysis.R"" that does the following:
 <i>
-<font ="-1"
+<font ="-1">
 <ol type="1">
 <li> Merges the training and the test sets to create one data set,</li>
 <li> Extracts only the measurements on the mean and standard deviation for each measurement, </li>
