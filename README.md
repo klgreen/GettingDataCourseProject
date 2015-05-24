@@ -4,6 +4,9 @@ output: html_document
 # GettingDataCourseProject
 
 Create a Tidy Data Set for course project in JHU/Coursera Course "Getting and Cleaning Data" 
+This is my own work, except the source data was taken from elsewhere (documented below),
+the assignment text was written by professors at JHU, and a few ideas I received from
+reading the discussion fora and asking a question at StackOverflow.
 
 Use this <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">data</a> for the project.
    
