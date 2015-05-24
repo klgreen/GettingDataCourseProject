@@ -32,7 +32,7 @@ This progject is an R script called, "run_Analysis.R"" that does the following:
 Method is described in the program.
 <ol type="1">
 <li>Read activities labels and feature labels</li>
-<li> for each of the training and test sets</li>
+<li> for each of the training and test sets, do the next 3 steps</li>
 <li> read in the data for the set and the subjects</li>
 <li>Extract only the data with 'mean' or 'std' </li>
 <li> combine (merge) the set, the subjects and the activities</li>
