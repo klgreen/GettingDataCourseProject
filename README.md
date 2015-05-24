@@ -30,16 +30,15 @@ This progject is an R script called, "run_Analysis.R"" that does the following:
 ** Note that these items 1:5 are exact quotes from the Coursera/JHU assignment page.
 
 
-Note: Very simple how to upload files:
-<ul style="list-style-type:none">
-<li> invoke Git Bash window</li>
-<li> cd GettingDataCourseProject</li>
-<li> git add README.md </li>
-<li> git add run_Analysis.R</li>
-<li> git commit -m "<blurb about changes>" </li>
-<li> git push</li>
-</ul>
+Note: Very simple how to upload files: <p>
+invoke Git Bash window<p>
+cd GettingDataCourseProject<p>
+git add README.md <p>
+git add run_Analysis.R<p>
+git commit -m "<blurb about changes>" <p>
+git push
+<br />
 
-The dataset used for this analysis is described in the publication:
+The dataset used for this analysis is described in the publication: <p />
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 
